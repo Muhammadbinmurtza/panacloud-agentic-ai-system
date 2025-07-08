@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "chainlit>=2.6.0",
     "langchain-community>=0.3.27",
     "langchain-google-genai>=2.1.6",
     "openai-agents>=0.1.0",
